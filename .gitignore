@@ -8,3 +8,5 @@ model.pb
 *.msc
 lite_avatar_weights/
 *.mv
+
+data
